@@ -1,2 +1,9 @@
+site_name: HF-ICT Overleaf Template
+site_url: https://hfict-fr22.github.io/overleaf-template/
+site_description: Latex Template für ATL und Diplomarbeit 
+site_author: Stefan Baumgartner
+
+repo_url: https://github.com/hfict-fr22/overleaf-template
+
 theme:
   name: material
